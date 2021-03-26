@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="keyline_0">2dp</dimen>
+    <dimen name="keyline_1">4dp</dimen>
+    <dimen name="keyline_2">8dp</dimen>
+    <dimen name="keyline_3">12dp</dimen>
+    <dimen name="keyline_4">16dp</dimen>
+    <dimen name="keyline_5">24dp</dimen>
+    <dimen name="promo_image_height">146dp</dimen>
+    <dimen name="marketplace_logo_size">30dp</dimen>
+</resources>
